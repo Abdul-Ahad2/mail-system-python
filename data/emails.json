@@ -1,0 +1,87 @@
+{
+  "ahad": [
+    {
+      "id": "ffd4ae43-9417-46b9-ad39-f863ba1fd296",
+      "sender": "ahad",
+      "recipient": "amina",
+      "subject": "hi",
+      "body": "test\n",
+      "timestamp": "2024-11-05T00:15:08.804631",
+      "status": "deleted"
+    },
+    {
+      "id": "e98236e5-ebd3-48f2-90d2-abdcae2822d1",
+      "sender": "ahad",
+      "recipient": "amina",
+      "subject": "1",
+      "body": "\nhi\n",
+      "timestamp": "2024-11-05T01:57:27.055140",
+      "status": "deleted"
+    },
+    {
+      "id": "488b172c-64e2-49c8-9f97-04b50aff5c64",
+      "sender": "amina",
+      "recipient": "ahad",
+      "subject": "test",
+      "body": "test\n",
+      "timestamp": "2024-11-05T02:13:13.588514",
+      "status": "deleted"
+    },
+    {
+      "id": "10038769-aa2d-4df1-ac97-dc57dcd9e51a",
+      "sender": "ahad",
+      "recipient": "amina",
+      "subject": "test1",
+      "body": "\n",
+      "timestamp": "2024-11-05T02:19:34.140323",
+      "status": "draft"
+    },
+    {
+      "id": "9d538dfc-d8ad-43d9-ba49-9c4333409a67",
+      "sender": "ahad",
+      "recipient": "amina",
+      "subject": "testing again",
+      "body": "testing again\n",
+      "timestamp": "2024-11-05T02:45:10.797327",
+      "status": "sent"
+    }
+  ],
+  "amina": [
+    {
+      "id": "ffd4ae43-9417-46b9-ad39-f863ba1fd296",
+      "sender": "ahad",
+      "recipient": "amina",
+      "subject": "hi",
+      "body": "test\n",
+      "timestamp": "2024-11-05T00:15:08.804631",
+      "status": "deleted"
+    },
+    {
+      "id": "e98236e5-ebd3-48f2-90d2-abdcae2822d1",
+      "sender": "ahad",
+      "recipient": "amina",
+      "subject": "1",
+      "body": "\nhi\n",
+      "timestamp": "2024-11-05T01:57:27.055140",
+      "status": "deleted"
+    },
+    {
+      "id": "488b172c-64e2-49c8-9f97-04b50aff5c64",
+      "sender": "amina",
+      "recipient": "ahad",
+      "subject": "test",
+      "body": "test\n",
+      "timestamp": "2024-11-05T02:13:13.588514",
+      "status": "sent"
+    },
+    {
+      "id": "9d538dfc-d8ad-43d9-ba49-9c4333409a67",
+      "sender": "ahad",
+      "recipient": "amina",
+      "subject": "testing again",
+      "body": "testing again\n",
+      "timestamp": "2024-11-05T02:45:10.797327",
+      "status": "inbox"
+    }
+  ]
+}
