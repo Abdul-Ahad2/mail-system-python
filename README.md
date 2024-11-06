@@ -1,1 +1,2 @@
-To run the project: `cd client && python main.py` 
+ - Make sure python is installed.
+ - Run this command in the root directory: `cd client && python main.py` 
