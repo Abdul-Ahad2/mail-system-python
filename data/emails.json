@@ -1,86 +1,59 @@
 {
-  "ahad": [
+  "user1": [
     {
-      "id": "ffd4ae43-9417-46b9-ad39-f863ba1fd296",
-      "sender": "ahad",
-      "recipient": "amina",
-      "subject": "hi",
-      "body": "test\n",
-      "timestamp": "2024-11-05T00:15:08.804631",
-      "status": "deleted"
+      "from": "user1",
+      "to": "user2",
+      "subject": "Hi",
+      "timestamp": "2024-12-15T12:00:00"
     },
     {
-      "id": "e98236e5-ebd3-48f2-90d2-abdcae2822d1",
-      "sender": "ahad",
-      "recipient": "amina",
-      "subject": "1",
-      "body": "\nhi\n",
-      "timestamp": "2024-11-05T01:57:27.055140",
-      "status": "deleted"
+      "sender": "user1",
+      "recipient": "user2",
+      "subject": "Hi",
+      "body": "Hello user2!",
+      "timestamp": "2024-12-15T14:17:24.101562",
+      "status": "sent"
     },
     {
-      "id": "488b172c-64e2-49c8-9f97-04b50aff5c64",
-      "sender": "amina",
-      "recipient": "ahad",
-      "subject": "test",
-      "body": "test\n",
-      "timestamp": "2024-11-05T02:13:13.588514",
-      "status": "deleted"
+      "sender": "user1",
+      "recipient": "user2",
+      "subject": "Hi",
+      "body": "Hello user2!",
+      "timestamp": "2024-12-15T14:17:24.102240",
+      "status": "sent"
     },
     {
-      "id": "10038769-aa2d-4df1-ac97-dc57dcd9e51a",
-      "sender": "ahad",
-      "recipient": "amina",
-      "subject": "test1",
-      "body": "\n",
-      "timestamp": "2024-11-05T02:19:34.140323",
-      "status": "draft"
-    },
-    {
-      "id": "9d538dfc-d8ad-43d9-ba49-9c4333409a67",
-      "sender": "ahad",
-      "recipient": "amina",
-      "subject": "testing again",
-      "body": "testing again\n",
-      "timestamp": "2024-11-05T02:45:10.797327",
+      "sender": "user1",
+      "recipient": "user2",
+      "subject": "Hi",
+      "body": "Hello user2!",
+      "timestamp": "2024-12-15T14:17:24.104388",
       "status": "sent"
     }
   ],
-  "amina": [
+  "user2": [
     {
-      "id": "ffd4ae43-9417-46b9-ad39-f863ba1fd296",
-      "sender": "ahad",
-      "recipient": "amina",
-      "subject": "hi",
-      "body": "test\n",
-      "timestamp": "2024-11-05T00:15:08.804631",
-      "status": "deleted"
+      "sender": "user1",
+      "recipient": "user2",
+      "subject": "Hi",
+      "body": "Hello user2!",
+      "timestamp": "2024-12-15T14:17:24.101562",
+      "status": "inbox"
     },
     {
-      "id": "e98236e5-ebd3-48f2-90d2-abdcae2822d1",
-      "sender": "ahad",
-      "recipient": "amina",
-      "subject": "1",
-      "body": "\nhi\n",
-      "timestamp": "2024-11-05T01:57:27.055140",
-      "status": "deleted"
+      "sender": "user1",
+      "recipient": "user2",
+      "subject": "Hi",
+      "body": "Hello user2!",
+      "timestamp": "2024-12-15T14:17:24.102240",
+      "status": "inbox"
     },
     {
-      "id": "488b172c-64e2-49c8-9f97-04b50aff5c64",
-      "sender": "amina",
-      "recipient": "ahad",
-      "subject": "test",
-      "body": "test\n",
-      "timestamp": "2024-11-05T02:13:13.588514",
-      "status": "sent"
-    },
-    {
-      "id": "9d538dfc-d8ad-43d9-ba49-9c4333409a67",
-      "sender": "ahad",
-      "recipient": "amina",
-      "subject": "testing again",
-      "body": "testing again\n",
-      "timestamp": "2024-11-05T02:45:10.797327",
+      "sender": "user1",
+      "recipient": "user2",
+      "subject": "Hi",
+      "body": "Hello user2!",
+      "timestamp": "2024-12-15T14:17:24.104388",
       "status": "inbox"
     }
   ]

@@ -1,0 +1,82 @@
+{
+  "farah": [
+    {
+      "id": "5c34baa6-ecff-4e40-adb1-3719c0b04795",
+      "sender": "farah",
+      "recipient": "ahad",
+      "subject": "test",
+      "body": "yooo\n",
+      "timestamp": "2024-12-15T13:20:05.280855",
+      "status": "sent"
+    },
+    {
+      "id": "e6f5a890-553c-4440-80f4-64e9aa4f74c2",
+      "sender": "heheh",
+      "recipient": "farah",
+      "subject": "123",
+      "body": "\n",
+      "timestamp": "2024-12-15T13:54:26.622890",
+      "status": "inbox"
+    },
+    {
+      "id": "b1a2cba6-7798-4a0c-bc3b-34e24b6df99c",
+      "sender": "heheh",
+      "recipient": "farah",
+      "subject": "123",
+      "body": "\n",
+      "timestamp": "2024-12-15T13:54:30.735315",
+      "status": "inbox"
+    }
+  ],
+  "ahad": [
+    {
+      "id": "5c34baa6-ecff-4e40-adb1-3719c0b04795",
+      "sender": "farah",
+      "recipient": "ahad",
+      "subject": "test",
+      "body": "yooo\n",
+      "timestamp": "2024-12-15T13:20:05.280855",
+      "status": "deleted"
+    },
+    {
+      "id": "65b12cc9-18a3-4481-aceb-a7dec1b76c4e",
+      "sender": "ahad",
+      "recipient": "hi",
+      "subject": "hi",
+      "body": "hi\n",
+      "timestamp": "2024-12-15T13:48:08.556685",
+      "status": "sent"
+    }
+  ],
+  "hi": [
+    {
+      "id": "65b12cc9-18a3-4481-aceb-a7dec1b76c4e",
+      "sender": "ahad",
+      "recipient": "hi",
+      "subject": "hi",
+      "body": "hi\n",
+      "timestamp": "2024-12-15T13:48:08.556685",
+      "status": "inbox"
+    }
+  ],
+  "heheh": [
+    {
+      "id": "e6f5a890-553c-4440-80f4-64e9aa4f74c2",
+      "sender": "heheh",
+      "recipient": "farah",
+      "subject": "123",
+      "body": "\n",
+      "timestamp": "2024-12-15T13:54:26.622890",
+      "status": "sent"
+    },
+    {
+      "id": "b1a2cba6-7798-4a0c-bc3b-34e24b6df99c",
+      "sender": "heheh",
+      "recipient": "farah",
+      "subject": "123",
+      "body": "\n",
+      "timestamp": "2024-12-15T13:54:30.735315",
+      "status": "sent"
+    }
+  ]
+}
